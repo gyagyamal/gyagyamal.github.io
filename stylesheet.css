@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin:0 auto;
+}
+
+.shop{
+  margin:100px 25px 0 25px;
+}
+
+.title{
+  margin:30px;
+}
+
+.title img{
+  float:right;
+
+}
+
+.title h1{
+  color:red;
+}
+
+
+.img 1{
+  float: right
+
+}
+
+.img 2{
+float:left;
+}
+
+.img{
+  size:50px;
+
+}
+
+.close h3{
+  font-size:30px;
+  color:red;
+}
